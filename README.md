@@ -33,16 +33,6 @@ My Designing Portfolio: <a href="https://www.behance.net/_naziaa" target="_blank
 </p>	
 </div>
 
-<div>&nbsp;</div>
-<h2 align="center">
-CONNECT WITH ME
-</h2>
 
-<div>
-<p align="center">
-<a href="https://www.linkedin.com/in/naziaa-0011/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="http://twitter.com/Naziaa__" target="_blank">
-<img src="https://skillicons.dev/icons?i=twitter" /></a>
-</p>	
-</div>
+
+
