@@ -28,7 +28,7 @@ So far I have the following tools in my toolkit:
 • <b>Tools:</b> Postman, Figma, Adobe Xd, Canva Pro<br><br>
 
 <b >
-My Designing Portfolio: <a href="https://www.behance.net/_naziaa" target="_blank">https://www.behance.net/_naziaa</a>
+My Design Portfolio: <a href="https://www.behance.net/_naziaa" target="_blank">https://www.behance.net/_naziaa</a>
 </b>
 </p>	
 </div>
